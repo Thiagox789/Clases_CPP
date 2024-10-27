@@ -10,16 +10,12 @@ int main()
     cin>>edad;
     if (edad>=18)
     {
-        cout<<"Usted es mayor de edad";
+        cout<<"Usted es mayor de edad"<<endl;
     }
     else
     {
-        cout<<"Usted es menor de edad";
+        cout<<"Usted es menor de edad"<<endl;
     }
-
-
-
-
 
     return 0;
 }
