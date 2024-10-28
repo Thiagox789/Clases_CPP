@@ -1,0 +1,24 @@
+
+1- Escribe un programa que imprima los números pares del 1 al 50.
+
+
+2- Escribe un programa que muestre los 100 primeros números primos.
+
+
+3- Escribir un programa que realice la suma de los 100 primeros números naturales.
+
+
+4- Crear un programa que pida un número por pantalla y luego muestre su tabla de 
+multiplicar (del 1 a 10) por pantalla.
+
+
+5- Escribir un programa que pida al usuario números y calcular su promedio, 
+hasta que se ingrese un número negativo usando un bucle do-while.
+
+
+6- Escribir un programa que cuente la cantidad de dígitos en un número entero 
+(ayúdate usando un contador).
+
+
+7- Escribir un programa que cuente la cantidad de veces que aparece una 
+letra específica en una cadena de texto (ayúdate usando un contador).
