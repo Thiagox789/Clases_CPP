@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/almad/OneDrive/Documentos/GitHub/Clases_CPP/tipos_de_datos__operaciones",
-      "program": "c:/Users/almad/OneDrive/Documentos/GitHub/Clases_CPP/tipos_de_datos__operaciones/build/Debug/outDebug",
+      "cwd": "c:/Users/almad/OneDrive/Documentos/GitHub/Clases_CPP/Condicionales",
+      "program": "c:/Users/almad/OneDrive/Documentos/GitHub/Clases_CPP/Condicionales/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
