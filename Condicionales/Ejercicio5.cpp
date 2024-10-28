@@ -13,6 +13,6 @@ int main()
     cin >> numero2;
     cout << "Ingresa el numero 3: ";
     cin >> numero3;
-
+    
     return 0;
 }
