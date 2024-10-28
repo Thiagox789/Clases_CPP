@@ -1,0 +1,21 @@
+1- Escribir un programa que pregunte al usuario su edad y muestre por pantalla si es mayor de edad o no.
+
+2- Escribir un programa que almacene la cadena de caracteres contraseña en una variable, pregunte al usuario por la contraseña e imprima 
+por pantalla si la contraseña introducida por el usuario coincide con la guardada en la variable sin tener en cuenta mayúsculas y minúsculas.
+
+3- Escribir un programa que pida al usuario un número entero y muestre por pantalla si es par o impar.
+
+4- Escribir un programa  que pida un número del 1 al 5 y diga si es primo o no.
+
+5- Escribir un programa que pida 3 números y los muestre en pantalla de menor a mayor.
+
+6- Escribir un programa que calcule el sueldo que le corresponde al trabajador de una empresa que 
+cobra 40.000 euros anuales, el programa debe realizar los cálculos en función de los siguientes criterios:
+        a.  Si lleva más de 10 años en la empresa se le aplica un aumento del 10%.
+        b.  Si lleva menos de 10 años pero más que 5 se le aplica un aumento del 7%.
+        c.  Si lleva menos de 5 años pero más que 3 se le aplica un aumento del 5%.
+        d.  Si lleva menos de 3 años se le aplica un aumento del 3%.
+
+7- Escribe un programa que pase de Kg a otra unidad de medida de masa, mostrar en pantalla un menú con las opciones posibles.
+
+8- Escribir un programa que muestre un menú donde las opciones sean “Equilátero”, “Isósceles” y “Escaleno”, pida una opción y calcule el perímetro del triángulo seleccionado.
