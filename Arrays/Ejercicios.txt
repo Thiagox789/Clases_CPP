@@ -1,0 +1,13 @@
+1- Crear un arry llamado vocales, que contenga las vocales, 
+luego mostrar por pantalla.
+
+2- Crear un array de tamaño 6 que guarde nombres,luego con un bucle for 
+recorrerlo y pedir al usuario que lo complete con nombres por pantalla
+
+3- Crear un arrya de tamaño 7 que guarde numeros pares pidiendolos por pantalla 
+en caso de que el usuario ingrese un numero no par, volverlo a pedir
+
+4-Crear un array compuesto por 8 numeros de tipo flotante, lo recorra y muestre 
+por pantalla yluego calcule la suma y multiplicacion
+
+
